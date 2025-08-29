@@ -7,10 +7,9 @@ This repository contains a series of Java exercises and assessments inspired by 
 - File I/O (reading structured data from text files)
 - Arrays and ArrayLists
 - Exception handling (`try/catch`, custom error messages)
-- Object-oriented design (`Person` class, constructors, getters)
+- Object-oriented design (classes, constructors, getters)
 - Input validation and defensive programming
 - Method creation and parameter handling
-- Basic control structures (`if`, `for`, `while`)
 
 - ## 📌 Highlights
 
